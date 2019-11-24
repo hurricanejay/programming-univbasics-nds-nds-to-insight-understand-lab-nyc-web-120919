@@ -9,8 +9,4 @@ pp nds
 end
 
 def print_first_directors_movie_titles
-while directors_database.each do |first_director|
-print_first_directors_movie_titles += 1
-end
-end
 end
