@@ -9,9 +9,9 @@ pp nds
 end
 
 def print_first_directors_movie_titles
-  row_index = 0
+  movie_titles = 0
 while row_index < print_first_directors_movie_titles.length do
-  
+  movie_titles += 1
   puts print_first_directors_movie_titles
 end
 end
