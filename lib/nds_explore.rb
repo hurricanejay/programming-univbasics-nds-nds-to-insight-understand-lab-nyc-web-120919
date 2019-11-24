@@ -10,6 +10,5 @@ end
 
 def print_first_directors_movie_titles
 while directors_database < print_first_directors_movie_titles
-
 puts 
 end
