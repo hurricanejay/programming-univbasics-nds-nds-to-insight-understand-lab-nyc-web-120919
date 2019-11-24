@@ -10,7 +10,7 @@ end
 
 def print_first_directors_movie_titles
   movie_titles = 0
-while row_index < print_first_directors_movie_titles.length do
+while movie_titles < print_first_directors_movie_titles.length do
   movie_titles += 1
   puts print_first_directors_movie_titles
 end
