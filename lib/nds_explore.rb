@@ -9,5 +9,6 @@ pp nds
 end
 
 def print_first_directors_movie_titles
-  pp 
+print_first_directors_movie_titles.each |movie_titles|
+puts 
 end
