@@ -15,3 +15,4 @@ while movie_counter < director_movies.length do
   puts director_movies[movie_counter][:title]
   movie_counter += 1
 end
+end
