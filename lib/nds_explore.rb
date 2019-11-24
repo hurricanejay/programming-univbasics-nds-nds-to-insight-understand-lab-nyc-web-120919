@@ -10,4 +10,5 @@ end
 
 def print_first_directors_movie_titles
   director_movies = directors_database
+  puts director_movies
 end
