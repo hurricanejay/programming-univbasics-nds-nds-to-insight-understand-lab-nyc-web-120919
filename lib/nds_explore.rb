@@ -9,6 +9,6 @@ pp nds
 end
 
 def print_first_directors_movie_titles
-while direct
+while directors_database < 
 puts 
 end
