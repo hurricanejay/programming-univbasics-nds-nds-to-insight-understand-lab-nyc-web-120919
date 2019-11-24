@@ -9,6 +9,6 @@ pp nds
 end
 
 def print_first_directors_movie_titles
-print_first_directors_movie_titles.each |movie_titles|
+while direct
 puts 
 end
